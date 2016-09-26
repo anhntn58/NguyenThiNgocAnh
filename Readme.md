@@ -17,6 +17,6 @@ viết bằng java, unit test sử dụng thư viện junit trên eclipse
 
 ## Độ bao phủ:
 
-![Coverage](file:///C:/Users/Ngoc%20Anh/Documents/a.png)
+![Coverage](http://i.imgur.com/Qu8CQ8t.png)
 
 ![Đồ Thị](file:///C:/Users/Ngoc%20Anh/Documents/cd.png)
